@@ -3,8 +3,8 @@
 import styled, { keyframes } from "styled-components";
 
 import pinkBlob from "../../assets/blobPink.png";
-import purpleBlob from "../../assets/blobPurple.png";
-import whiteBlob from "../../assets/blobWhite.png";
+import purpleBlob from "../../assets/blob purple.png";
+import whiteBlob from "../../assets/blob white.png";
 import arrow from "../../assets/Arrow Right.svg";
 import Mobile from "../../assets/mobile.svg";
 
